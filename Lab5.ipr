@@ -96,9 +96,6 @@
       <listeners />
     </configuration>
   </component>
-  <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
-  </component>
   <component name="masterDetails">
     <states>
       <state key="ProjectJDKs.UI">
